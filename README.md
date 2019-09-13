@@ -5,7 +5,7 @@ This is my firts backend with NodeJS and MongoDB.
 ###First of all you need to install the node package modules.
 npm install
 
-### you have to init de npm
+### you have to init npm
 npm init.
 
 Aditional tools:
